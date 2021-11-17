@@ -38,7 +38,7 @@ const Footer = () => {
         <div className='mt-16 block text-left xl:mt-0'>
           <h2 className='text-4xl leading-[53px] font-extrabold'>Edie</h2>
           {/* Social Icons */}
-          <div className='flex mt-2'>
+          <div className='flex mt-2 mb-16'>
             <span className='pr-3'>
               <ImInstagram className='text-2xl ' />
             </span>
@@ -53,7 +53,7 @@ const Footer = () => {
 
         {/* Contact */}
 
-        <div className='w-full pr-10 xl:w-1/3'>
+        <div className='w-full md:w-3/5 pr-10 xl:w-1/3'>
           <Contact />
         </div>
       </div>

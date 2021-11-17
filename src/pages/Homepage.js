@@ -18,10 +18,10 @@ const Homepage = () => {
           <section id='services' className=''>
             <Services />
           </section>
-          <section id='features' className='mt-36 block text-left xl:pl-28'>
+          <section id='features' className='mt-36 block text-left'>
             <Features />
           </section>
-          <section id='team' className='mt-36 block text-left xl:pl-28'>
+          <section id='team' className='mt-36 block text-left '>
             <Team />
           </section>
         </div>
